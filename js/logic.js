@@ -89,7 +89,7 @@ $(document).ready(function() {
   // we will create a function to pass in the word
   function createSynonymButtons(word) {
     var queryURL =
-      "http://words.bighugelabs.com/api/2/d49d6cfaa20d4dd74f649fe59a83969e/" +
+      "https://words.bighugelabs.com/api/2/d49d6cfaa20d4dd74f649fe59a83969e/" +
       word +
       "/json";
 
